@@ -4,8 +4,7 @@
 <p>Welcome to my page! </br> I'm ikram, Fullstack developer from  <b>Algeria</b>. </p>
 <h3>Things I code with</h3>
 <p>
-# 💻 Tech Stack:
-<img alt="C++" src="[https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white](https://s1.qwant.com/thumbr/192x185/3/1/6a4af3712492328ef74d7d526bde3044e11f622f79ab7ee32875480106eaf1/OIP.jUaRH7iSVXlAVrJqKvsbuAAAAA.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.jUaRH7iSVXlAVrJqKvsbuAAAAA%3Fr%3D0%26pid%3DApi&q=0&b=1&p=0&a=0)" />
+<img alt="C++" src="[https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white]/>
 <img alt="C#" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
@@ -18,6 +17,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/AhmedYaser-Mt/Project-1-Stone---Paper---Scissor-)
+- [Project 2 ( Math Game )](https://github.com/AhmedYaser-Mt/Project-2-Math-Game-)
+- [Project 3 ( Banking System )](https://github.com/AhmedYaser-Mt/Project-3-Bank-1-)
+- [Project 4 ( ATM System )](https://github.com/AhmedYaser-Mt/Project-4-ATM-System-)
 </p>
 <h3>Open source projects</h3>
 <table>

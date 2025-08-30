@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm ikram, Fullstack developer from  <b>Algeria</b>. </p>
 <h3>Things I code with</h3>
 <p>
-<img alt="C++" src="[https://s1.qwant.com/thumbr/192x185/3/1/6a4af3712492328ef74d7d526bde3044e11f622f79ab7ee32875480106eaf1/OIP.jUaRH7iSVXlAVrJqKvsbuAAAAA.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.jUaRH7iSVXlAVrJqKvsbuAAAAA%3Fr%3D0%26pid%3DApi&q=0&b=1&p=0&a=0)]"/>
+<img alt="Visual Studio Code" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg]"/>
 <img alt="C#" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />

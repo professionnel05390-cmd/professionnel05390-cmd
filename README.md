@@ -1,7 +1,7 @@
 <h1> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm ikram, Fullstack developer from  <b>Algeria</b>. </p>
+<p>### 👋 Hello! I'm **ikram** Fullstack developer from  <b>Algeria</b>. </p>
 <h3>Things I code with</h3>
 <p>
 <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />

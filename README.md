@@ -1,7 +1,6 @@
-<h1> Hey! Nice to see you.</h1>
+### 👋 Hello! I'm **ikram**
 
-
-### 👋 Hello! I'm **ikram** Fullstack developer from  <b>Algeria</b>. 
+### Fullstack developer from  <b>Algeria</b>. 
 <h3>Things I code with</h3>
 <p>
 <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -38,7 +37,6 @@
     </tr>
   </thead>
   <tbody>
-    <!-- C++ Project -->
     <tr>
       <td><b>C++</b></td>
       <td><a href="https://github.com/ikram-dev/cpp-project"><b>My C++ Project</b></a></td>
@@ -47,8 +45,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
-    <!-- HTML Project -->
     <tr>
       <td><b>HTML</b></td>
       <td><a href="https://github.com/ikram-dev/html-project"><b>My HTML Project</b></a></td>
@@ -57,8 +53,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
-    <!-- CSS Project -->
     <tr>
       <td><b>CSS</b></td>
       <td><a href="https://github.com/ikram-dev/css-project"><b>My CSS Project</b></a></td>

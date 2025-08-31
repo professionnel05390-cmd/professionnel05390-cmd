@@ -30,36 +30,20 @@
     <tr>
       <td><b>🛎 Language</b></td>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>C++</b></td>
       <td><a href="https://github.com/ikram-dev/cpp-project"><b>My C++ Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ikram-dev/cpp-project?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><b>HTML</b></td>
       <td><a href="https://github.com/ikram-dev/html-project"><b>My HTML Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ikram-dev/html-project?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><b>CSS</b></td>
-      <td><a href="https://github.com/ikram-dev/css-project"><b>My CSS Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ikram-dev/css-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ikram-dev/css-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ikram-dev/css-project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ikram-dev/css-project?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ikram-dev/css-project"><b>My CSS Project</b></a></td>  
     </tr>
   </tbody>
 </table>

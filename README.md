@@ -36,10 +36,7 @@
   <tbody>
     <tr>
       <td><b>C++</b></td>
-      <td><a href="https://github.com/ikram-dev/cpp-project"><b>[Project 1 ( Stone - Paper - Scissor )]</b></a></td>
-      <td><a href="https://github.com/ikram-dev/cpp-project"><b> [Project 2 ( Math Game )]</b></a></td>
-      <td><a href="https://github.com/ikram-dev/cpp-project"><b> [Project 3 ( Banking System )]</b></a></td>
-      <td><a href="https://github.com/ikram-dev/cpp-project"><b>[Project 4 ( ATM System )]</b></a></td>
+      <td><a href="https://github.com/ikram-dev/cpp-project"><b>[Project 1 ( Stone - Paper - Scissor )]</b></a></td> 
     </tr>
     <tr>
       <td><b>HTML</b></td>

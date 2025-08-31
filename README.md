@@ -28,14 +28,18 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🛎 Language</b></td>
+      <td><b>🛎 Languages</b></td>
       <td><b>🎁 Projects</b></td>
+      <td><b> links</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>C++</b></td>
-      <td><a href="https://github.com/ikram-dev/cpp-project"><b>My C++ Project</b></a></td>
+      <td><a href="https://github.com/ikram-dev/cpp-project"><b>[Project 1 ( Stone - Paper - Scissor )]</b></a></td>
+      <td><a href="https://github.com/ikram-dev/cpp-project"><b> [Project 2 ( Math Game )]</b></a></td>
+      <td><a href="https://github.com/ikram-dev/cpp-project"><b> [Project 3 ( Banking System )]</b></a></td>
+      <td><a href="https://github.com/ikram-dev/cpp-project"><b>[Project 4 ( ATM System )]</b></a></td>
     </tr>
     <tr>
       <td><b>HTML</b></td>
